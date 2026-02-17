@@ -18,7 +18,8 @@ export default function App() {
   useEffect(() => {
     finChatRef.current?.scrollIntoView({ behavior: "smooth" });}, [mensajes]);
   
-//ENCARGADO DE EL ENVIO DEL MENSAJE
+
+    //ENCARGADO DEL ENVIO DEL MENSAJE
 /*INICIO*/  
 
 const handleSend = (usarTexto) => {
@@ -29,7 +30,7 @@ const handleSend = (usarTexto) => {
     let r = "Lo siento. No tengo una respuesta para eso.";
     
 
-    /*INICIO DE LA BUSQUEDA DE LAS COINCIDENCIAS DE PALABRAS CLAVE*/
+    /*INICIO DE LA BUSQUEDA DE LAS COINCIDENCIAS DE PALABRAS CLAVE DE PR.JS*/
    for (let faq of PR) {
   const coincidencia = faq.p.some(palabra =>
     textoUsuario.includes(palabra.toLowerCase().replace(/\s+/g, ''))
@@ -44,7 +45,7 @@ const handleSend = (usarTexto) => {
   setTimeout(() => {
     setMensajes(prev => [
       ...prev,
-      { tipo: "bot", texto: r }]);},300);}; //TIEMPO DE ESPERA DE RESPUESTA DEL BOT
+      { tipo: "bot", texto: r }]);},300);}; //TIEMPO DE ESPERA DE RESPUESTA DEL BOT osea 3 milisegundos
 /*FIN*/  
 
 return (
@@ -68,7 +69,7 @@ return (
       </div>
       {/* Input */}
       <Input onSend={handleSend} />
-      {/* Login */}
+      {/* Ingresar nombre de usuario */}
       {mostrarLogin && (
         <div className="modal-overlay">
           <div className="modal-login">

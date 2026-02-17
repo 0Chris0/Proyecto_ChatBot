@@ -12,7 +12,7 @@ export default function Chtbot({ mensajes }) {
           {mensaje.tipo === "bot" && (
             <img src="./src/img/comentario.png" alt="Bot" className="bot-avatar"/>
           )}
-          {/* Burbuja del mensaje */}
+          {/* Burbuja donde se muestra el mensaje */}
           <div className={ mensaje.tipo === "usuario" ? "mensaje usuario": "mensaje bot"}>
             <span>{mensaje.texto}</span>
           </div>

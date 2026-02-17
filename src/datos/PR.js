@@ -44,6 +44,58 @@ export const PR = [
   p: ["biblioteca"],
   r: "La biblioteca está ubicada en el edificio A y los horarios de consulta son:\nlunes: 8:00 AM- 3:00 PM\nmartes: 9:00 AM- 4:00 PM\nmiércoles: 8:00 AM - 3:00 PM\njueves: 9:00 AM - 4:00 PM\nviernes: 8:00 AM- 3:00 PM"
   },
+  //aqui la idea es ir agregando mas preguntas frecuentes, 
+  //con las palabras clave y respuestas, para que el 
+  //bot responda, osea, mira la actividad, vas a ver que dice
+  //tematicas a considerar, entonces te salen las preguntas que deberia de 
+  //poder responder, entonces por ejemplo con la ubicacion de la biblioteca 
+  //la palabra clave es biblioteca obviamente entonces pones esa donde dice "p"
+  //que lo deje asi para no poner "palabra" entonces aja, lo agregas. LUEGO en "r" pones
+  //la respuesta que va dar el chat, creo que ya me entendes, si la palabra clave es 
+  //hola, que responda con un "hola en que te puedo ayudar" entonces asi hasta cubrir 
+  //la mayor cantidad de preguntas, si me podes ayudar en esto te lo agradeceria. A y
+  //si quieres agregar mas preguntas, solo tenes que agregar mas mmm "{}" que son ponele el almacen
+  //con sus palabras clave y respuestas y detallito, no olvides las comas porque si no no funciona.
+  {
+    p: [""],  
+    r: " "
+  },
+  {
+    p: [""],
+    r: " "
+  },
+  {
+    p: [""],
+    r: " "
+  },
+  {
+    p: [""],
+    r: " "
+  },
+  {
+    p: [""],
+    r: " "
+  },
+  {
+    p: [""],
+    r: " "
+  },
+  {
+    p: [""],
+    r: " "
+  },
+  {
+    p: [""],
+    r: " "
+  },
+  {
+    p: [""],
+    r: " "
+  },
+  {
+    p: [""],
+    r: " "
+  },
   {
     p: [""],
     r: " "
