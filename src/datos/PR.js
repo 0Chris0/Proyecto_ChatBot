@@ -63,13 +63,14 @@ export const PR = [
      {
     p: ["Gracias","gracias"],
     r: "Aqui estamos para lo que necesites. "
-  },  {
+  },  
+    {
     p: ["Pasantias","pasantias","pasantías"],
     r: "Las oportunidades de pasantías disponibles se publican en el portal institucional según el período académico. "
   },
   {
-    p: ["graduacion","Graduacion","graduación","Graduación"]   
-    r: "El proceso de graduación incluye la verificación de materias aprobadas, servicio social, pasantías y la entrega de documentos según lo establecido por la universidad. Puedes llevar a cabo el proceso en el portal academico "
+    p: ["graduacion","Graduacion","graduación","Graduación"],   
+    r: "El proceso de graduación incluye la verificación de materias aprobadas, servicio social, pasantías y la entrega de documentos según lo establecido por la universidad. Puedes llevar a cabo el proceso en el portal academico."
   },
   {
     p: ["retiro","retiro de materias"],
