@@ -57,7 +57,7 @@ export const PR = [
   //si quieres agregar mas preguntas, solo tenes que agregar mas mmm "{}" que son ponele el almacen
   //con sus palabras clave y respuestas y detallito, no olvides las comas porque si no no funciona.
   {
-    p: ["Beca","becas"],  
+    p: ["Beca","becas","beca"],  
     r: "Puedes solicitarlas en el departamento de administracion academica o en el portal institucional. "
   },
   {
@@ -77,7 +77,7 @@ export const PR = [
     r: "El retiro de materias puede realizarse dentro de las fechas establecidas en el calendario académico.  "
   },
   {
-    p: ["constancia","constancias",],
+    p: ["constancia","constancias"],
     r: "Las constancias académicas pueden solicitarse desde el portal de la universidad. O puedes acercarte a las oficinas de administracion academica "
   },
   {
