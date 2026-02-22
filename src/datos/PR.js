@@ -65,7 +65,7 @@ export const PR = [
     r: "Las oportunidades de pasantías disponibles se publican en el portal institucional según el período académico. "
   },
   {
-    p: ["Horas sociales","horas sociales],
+    p: ["Horas sociales","horas sociales"],
     r: "El servicio social se gestiona desde el portal de la universidad, donde el estudiante puede consultar los proyectos disponibles y enviar su currículum para postularse. "
   },
   {
@@ -73,7 +73,7 @@ export const PR = [
     r: "El proceso de graduación incluye la verificación de materias aprobadas, servicio social, pasantías y la entrega de documentos según lo establecido por la universidad. Puedes llevar a cabo el proceso en el portal academico "
   },
   {
-    p: ["retiro","retiro de materias],
+    p: ["retiro","retiro de materias"],
     r: "El retiro de materias puede realizarse dentro de las fechas establecidas en el calendario académico.  "
   },
   {
