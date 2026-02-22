@@ -61,27 +61,27 @@ export const PR = [
     r: "Puedes solicitarlas en el departamento de administracion academica o en el portal institucional. "
   },
   {
-    p: ["Pasantias"],
+    p: ["Pasantias","pasantias"],
     r: "Las oportunidades de pasantías disponibles se publican en el portal institucional según el período académico. "
   },
   {
-    p: ["Horas sociales"],
+    p: ["Horas sociales","horas sociales],
     r: "El servicio social se gestiona desde el portal de la universidad, donde el estudiante puede consultar los proyectos disponibles y enviar su currículum para postularse. "
   },
   {
-    p: ["graduacion"],
+    p: ["graduacion","Graduacion"],
     r: "El proceso de graduación incluye la verificación de materias aprobadas, servicio social, pasantías y la entrega de documentos según lo establecido por la universidad. Puedes llevar a cabo el proceso en el portal academico "
   },
   {
-    p: ["retiro"],
+    p: ["retiro","retiro de materias],
     r: "El retiro de materias puede realizarse dentro de las fechas establecidas en el calendario académico.  "
   },
   {
-    p: ["constancia","constancias"],
+    p: ["constancia","constancias",],
     r: "Las constancias académicas pueden solicitarse desde el portal de la universidad. O puedes acercarte a las oficinas de administracion academica "
   },
   {
-    p: ["telefono"],
+    p: ["telefono","numero"],
     r: "Puedes comunicarte al telefono 2251 8241, en horario administrativo. "
   },
 ];
