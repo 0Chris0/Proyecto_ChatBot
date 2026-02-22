@@ -45,7 +45,7 @@ export const PR = [
     r: "Los eventos estaran divididos de eventos generales y eventos de carreras estudiantiles.\nSi deseas mas información, puedes acceder al sitio web oficial de la institucion para consultar eventos generales o de carreras."
   },
   {
-    p: ["estres","ansiedad","consulta","psicologica"],
+    p: ["estres","ansiedad","consulta","psicologica", "psicologico","psicologicos"],
     r: "Puedes solicitar atención psicológica gratuita en Bienestar Estudiantil, Edificio B, segundo nivel. Atención de lunes a viernes de 8:00 AM a 4:00 PM."
   },
   {

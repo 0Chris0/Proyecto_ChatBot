@@ -17,11 +17,7 @@ export default function App() {
   //Auto-scroll 
   useEffect(() => {
     finChatRef.current?.scrollIntoView({ behavior: "smooth" });}, [mensajes]);
-  
-<<<<<<< HEAD
-=======
 
->>>>>>> 5583c40b126e786e8b1441985a891bc91b0f0c38
     //ENCARGADO DEL ENVIO DEL MENSAJE
 /*INICIO*/  
 
@@ -32,7 +28,6 @@ const handleSend = (usarTexto) => {
     const textoUsuario = usarTexto.toLowerCase();
     let r = "Lo siento. No tengo una respuesta para eso.";
     
-
     /*INICIO DE LA BUSQUEDA DE LAS COINCIDENCIAS DE PALABRAS CLAVE DE PR.JS*/
    for (let faq of PR) {
   const coincidencia = faq.p.some(palabra =>
