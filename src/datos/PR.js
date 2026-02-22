@@ -83,5 +83,17 @@ export const PR = [
   {
     p: ["comida","cafeteria","chalet","comedor","cafetería","comer","comidas"],
     r: "La cafetería principal está frente a la plaza central.\nHorario: 7:00 AM — 6:00 PM\nTambién hay kioscos y máquinas expendedoras en varios edificios."
-  }
+  },
+  {
+    p: ["Gracias","gracias"],
+    r: "Aqui estamos para lo que necesites."
+  }, 
+  {
+    p: ["graduacion","Graduacion","graduación","Graduación"],   
+    r: "El proceso de graduación incluye la verificación de materias aprobadas, servicio social, pasantías y la entrega de documentos según lo establecido por la universidad. Puedes llevar a cabo el proceso en el portal academico."
+  },
+  {
+    p: ["retiro"],
+    r: "El retiro de materias puede realizarse dentro de las fechas establecidas en el calendario académico.  "
+  },
 ];
