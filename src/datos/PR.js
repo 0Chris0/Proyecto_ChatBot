@@ -60,12 +60,15 @@ export const PR = [
     p: ["Beca","becas","beca"],  
     r: "Puedes solicitarlas en el departamento de administracion academica o en el portal institucional. "
   },
-  {
-    p: ["Pasantias","pasantias"],
+     {
+    p: ["Gracias","gracias"],
+    r: "Aqui estamos para lo que necesites. "
+  },  {
+    p: ["Pasantias","pasantias","pasantías"],
     r: "Las oportunidades de pasantías disponibles se publican en el portal institucional según el período académico. "
   },
   {
-    p: ["graduacion","Graduacion"],
+    p: ["graduacion","Graduacion","graduación","Graduación"]   
     r: "El proceso de graduación incluye la verificación de materias aprobadas, servicio social, pasantías y la entrega de documentos según lo establecido por la universidad. Puedes llevar a cabo el proceso en el portal academico "
   },
   {
@@ -77,7 +80,7 @@ export const PR = [
     r: "Las constancias académicas pueden solicitarse desde el portal de la universidad. O puedes acercarte a las oficinas de administracion academica "
   },
   {
-    p: ["telefono","numero"],
+    p: ["telefono","numero","tel"],
     r: "Puedes comunicarte al telefono 2251 8241, en horario administrativo. "
   },
 ];
