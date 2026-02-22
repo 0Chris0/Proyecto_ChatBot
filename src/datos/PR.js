@@ -57,6 +57,10 @@ export const PR = [
     r: "Las tutorías académicas se imparten de lunes a jueves de 2:00 PM a 5:00 PM en el Centro de Apoyo Académico."
   },
   {
+    p: ["sociales","sociales"],
+    r: "El servicio social se gestiona desde el portal de la universidad, donde el estudiante puede consultar los proyectos disponibles y enviar su currículum para postularse. "
+  },
+  {
     p: ["pasantias","pasantia","practicas","practica","convenios","convenio"],
     r: "Las pasantías se gestionan en la Oficina de Vinculación Profesional, Edificio C. También puedes consultar las ofertas en el portal institucional."
   },
