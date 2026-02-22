@@ -18,6 +18,10 @@ export default function App() {
   useEffect(() => {
     finChatRef.current?.scrollIntoView({ behavior: "smooth" });}, [mensajes]);
   
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5583c40b126e786e8b1441985a891bc91b0f0c38
     //ENCARGADO DEL ENVIO DEL MENSAJE
 /*INICIO*/  
 
