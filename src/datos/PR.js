@@ -65,7 +65,7 @@ export const PR = [
     r: "Las oportunidades de pasantías disponibles se publican en el portal institucional según el período académico. "
   },
   {
-    p: ["Horas sociales","horas sociales"],
+    p: ["sociales","sociales"],
     r: "El servicio social se gestiona desde el portal de la universidad, donde el estudiante puede consultar los proyectos disponibles y enviar su currículum para postularse. "
   },
   {
